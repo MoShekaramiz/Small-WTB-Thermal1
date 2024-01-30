@@ -19,7 +19,7 @@ The dataset comprises 1000 thermal images, each uniformly processed to ensure co
 To ensure a balanced perspective, the dataset is divided equally, containing:
 
 - 500 images of **Healthy WTB Blades**.
-- 500 images of **Faulty WTB Blades**, featuring various defects like cracks, erosion, and holes.
+- 500 images of **Faulty WTB Blades**, featuring the defects cracks, erosion, and holes.
 
 Here is an example of MSX visualization of the WTBs:
 
