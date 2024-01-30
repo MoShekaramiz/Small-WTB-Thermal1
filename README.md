@@ -21,9 +21,11 @@ To ensure a balanced perspective, the dataset is divided equally, containing:
 - 500 images of **Healthy WTB Blades**.
 - 500 images of **Faulty WTB Blades**, featuring various defects like cracks, erosion, and holes.
 
+Here is an example of MSX visualization of the WTBs:
+
 ![Example of Thermal Images - MSX_all_blades.jpg](MSX_all_blades.jpg)
 
-*Here is an example of MSX visualization of the WTBs.*
+
 
 ## MSX Technology
 
