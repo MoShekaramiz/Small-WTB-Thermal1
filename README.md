@@ -3,7 +3,7 @@
 Our team gathered a dataset of 1000 thermal images, each processed to achieve uniformity and consistency throughout the collection. This involved several key steps:
 
 - Cropping, centering, and resizing each image to a consistent resolution of `320x320` pixels.
-- Classifying the images as either **healthy** or **faulty** for Wind Turbine Blade (WTB) inspection.
+- Classifying the images as either **healthy** or **faulty** for WTB inspection.
 
 The dataset is evenly divided, containing:
 
