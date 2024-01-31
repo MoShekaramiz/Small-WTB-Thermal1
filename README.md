@@ -49,4 +49,4 @@ If you use this dataset, please cite us:
 Memari, M.; Shekaramiz, M.; Masoum, M.A.S.; Seibi, A.C. Data Fusion and Ensemble Learning for Advanced Anomaly Detection Using Multi-Spectral RGB and Thermal Imaging of Small Wind Turbine Blades. Energies 2024, 17, 673. [https://doi.org/10.3390/en17030673](https://doi.org/10.3390/en17030673)
 
 
-*For more information or to access the dataset, please contact the Machine Learning and Drone Lab at Utah Valley University.*
+*For more information, please contact the Machine Learning and Drone Lab at Utah Valley University.*
